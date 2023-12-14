@@ -1,0 +1,5 @@
+discord
+datetime
+pytz
+youtube-search-python
+yt-dlp
